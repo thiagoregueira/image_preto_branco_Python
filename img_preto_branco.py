@@ -15,7 +15,7 @@ st.set_page_config(
 
 
 st.markdown(
-    "<h2 style='text-align: center;'> Transformador de Imagem Preto e Branco </h2>",
+    "<h2 style='text-align: center;'> Transformar Imagem em Preto e Branco </h2>",
     unsafe_allow_html=True,
 )
 
